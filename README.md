@@ -4,3 +4,7 @@ ok so this is my website right. it's horrible right. right. you see. actually ga
 fonts and images and also text not included it's just styling and html. like the basic layout
 
 the fonts are from from [the oldschool pc font resource](https://int10h.org/oldschool-pc-fonts/) (really cool site btw) they're not included here because idk if they're Open Sesame but tey are free. the css file still has their names so if you want the exact fonts sure go Grab them. Go Get Them. Only if you want though
+
+Text will be insanely broken without them so like you actually might want to get them
+
+also just to say the website banner part is exactly 668x200 px so if its not that size it's probably gonna look bad
