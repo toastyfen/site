@@ -1,2 +1,4 @@
 # site
-it's my website (WARNING: HORRIBLY CRAFTED WITH NO LOVE PUT INTO IT AT ALL)
+ok so this is my website right. it's horrible right. right. you see. actually garbage. i have the Markup experience of a young child in a web design class where nobody knows how to actually design websites. please ignore all of it thank you
+
+fonts and images not included it's just styling and html ok thanks goodbye forever
